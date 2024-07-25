@@ -1,0 +1,6 @@
+name: AlwaysEffect
+version: 1.0.0
+api: [5.0.0]
+main: KumaDev\AlwaysEffect\Main
+author: KumaDeveloper
+description: A plugin that always gives specified effects to players in specified worlds.
